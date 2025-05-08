@@ -64,6 +64,15 @@ The learning path is organized into the following main sections:
 * A strong understanding of core Azure services, workloads, security, and governance.
 * Familiarity with PowerShell, Azure CLI, the Azure portal, and ARM templates or Bicep.
 
+## Additional Resources
+Here are some curated resources to complement your AZ-104 preparation:
+
+ - [Microsoft Learn – AZ-104 Learning Path](https://learn.microsoft.com/en-us/certifications/exams/az-104/): Official learning modules from Microsoft that align directly with the exam objectives.
+
+ - [Microsoft AZ-104 Study Guide (PDF)](https://arch-center.azureedge.net/Learning/Credentials/exam-az-104-microsoft-azure-administrator-skills-measured.pdf): The official Study Guide provided by Microsoft.
+
+ - [EduSum Practice Tests](https://www.edusum.com/microsoft/az-104-microsoft-azure-administrator): Great platforms for simulated exams
+
 We hope this guide serves as a valuable resource in your journey to becoming a Microsoft Certified: Azure Administrator Associate! Good luck with your studies!
 
 ---
