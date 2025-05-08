@@ -115,3 +115,18 @@ What should you do first?
 * **Microsoft Learn Practice Assessments:** Microsoft often provides free practice assessments on the [official AZ-104 exam page](https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/?practice-assessment-type=certification#certification-practice-for-the-exam). These are highly recommended. 
 * **[EduSum](https://www.edusum.com/exams/sample-az-104-microsoft-azure-administrator-mc    - a):** Offers high-quality, exam-like practice tests designed to simulate the real exam environment, helping you build confidence and assess your readiness effectively. 
 * **Various Blogs and Community Sites:** Some Azure community experts occasionally post sample questions or quizzes. Search for "AZ-104 free practice questions."
+
+### Top 10 Most Commonly Asked AZ-104 Questions (Conceptual Areas)
+
+This refers to topic areas frequently emphasized, not specific repeated questions.
+
+1.  **NSG Configuration and Troubleshooting:** Understanding how NSGs work, rule processing, default rules, and how to troubleshoot connectivity blocked by NSGs (including effective security rules).
+2.  **Azure Storage Account Configuration:** Choosing the right account type, performance tier, access tier (Hot/Cool/Archive), and redundancy options (LRS, GRS, ZRS, RA-GRS) based on scenarios.
+3.  **Azure VM Deployment and Sizing:** Selecting appropriate VM sizes, understanding availability sets vs. availability zones, and deploying VMs.
+4.  **Azure RBAC:** Assigning built-in roles at correct scopes (management group, subscription, resource group, resource) and understanding permission inheritance. Principle of least privilege.
+5.  **Microsoft Entra ID User and Group Management:** Creating users/groups, dynamic group membership, and group-based licensing.
+6.  **Azure Monitor - Alerts and Log Analytics:** Setting up alerts based on metrics or logs, and writing basic KQL queries to analyze data in Log Analytics.
+7.  **Azure Backup and Restore for VMs:** Configuring backup policies, performing backups, and understanding restore options (full VM, disk, file-level).
+8.  **VNet Peering:** Configuring peering between VNets (regional and global) and understanding its properties (non-transitive, gateway transit).
+9.  **Azure App Service Plans and Deployment Slots:** Understanding App Service plan SKUs, scaling (up/out), and using deployment slots for safe deployments.
+10. **ARM Templates / Bicep:** Basic understanding of how to read, modify, and deploy resources using ARM templates or Bicep.
