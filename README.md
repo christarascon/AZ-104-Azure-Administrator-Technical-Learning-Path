@@ -12,33 +12,33 @@ The AZ-104 certification validates your ability to implement, manage, and monito
 
 The learning path is organized into the following main sections:
 
-1.  **Introduction:**
+1.  **[Introduction](1-Introduction.md):**
     * Overview of the AZ-104 certification and its path.
     * Reasons to get AZ-104 certified.
     * How to effectively use this guide.
 
-2.  **Study Resources:**
+2.  **[Study Resources](2-Study-Resources.md):**
     * Links to the official AZ-104 exam skills outline.
     * A curated list of free and paid learning resources.
-    * Recommendations for top books, courses, and hands-on labs.
+    * Recommendations for top books.
 
-3.  **Skills Measured (Detailed Breakdown):**
+3.  **[Skills Measured](3-Skills-Measured.md) (Detailed Breakdown):**
     * **Manage Azure identities and governance (20-25%):** Covers Microsoft Entra ID users, groups, access management, subscriptions, and governance tools like Azure Policy and resource locks.
     * **Implement and manage storage (15-20%):** Details on configuring access to storage, managing storage accounts, Azure Files, and Azure Blob Storage.
     * **Deploy and manage Azure compute resources (20-25%):** Focuses on ARM/Bicep templates, virtual machines, container instances, container apps, and Azure App Service.
     * **Implement and manage virtual networking (15-20%):** Explains virtual networks, subnets, peering, public IPs, routing, NSGs, Azure Bastion, DNS, and load balancing.
     * **Monitor and maintain Azure resources (10-15%):** Covers Azure Monitor, log analytics, alerts, backup, and Azure Site Recovery.
 
-4.  **Hands-On Labs:**
+4.  **[Hands-On Labs](4-Hands-On-Labs.md):**
     * Practical lab exercises for Azure CLI/PowerShell, VM deployment, storage configuration, virtual networking, and monitoring.
 
-5.  **Mock Tests & Practice Questions:**
+5.  **[Mock Tests & Practice Questions](5-Mock-Tests-&-Practice-Questions.md):**
     * Guidance on finding sample questions, links to free practice tests, and a list of commonly tested conceptual areas.
 
-6.  **Exam Day Tips:**
+6.  **[Exam Day Tips](6-Exam-Day-Tips.md):**
     * Strategies for exam day, common mistakes to avoid, and information on the retake policy.
 
-7.  **Post-Certification:**
+7.  **[Post-Certification](7-Post-Certification.md):**
     * Advice on what to do after passing the exam, including the path to Azure Solutions Architect (AZ-305) and career opportunities.
 
 ## How to Use This Repository
