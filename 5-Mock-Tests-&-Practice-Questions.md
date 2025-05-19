@@ -9,6 +9,7 @@ Prepare effectively for the Microsoft Azure Administrator AZ-104 exam with this 
 **Example Question Types:**
 
 1. When the backups are deleted, how long are they preserved under soft delete?
+    - a) 14 days
     - b) 10 days
     - c) 7 days
     - d) 1 day
@@ -17,7 +18,7 @@ Prepare effectively for the Microsoft Azure Administrator AZ-104 exam with this 
       Correct answer: a
     </details>
 
-2. You have an Azure Storage account named corpimages and an on-premises shared folder named \\server1\images. You need to migrate all the contents from \\server1\images to corpimages. Which two commands can you use?
+3. You have an Azure Storage account named corpimages and an on-premises shared folder named \\server1\images. You need to migrate all the contents from \\server1\images to corpimages. Which two commands can you use?
 Each correct answer presents a complete solution? Select all answers that apply.
     - a) Azcopy sync \\server1\images [https://corpimages.blob.core.windows.net/public](https://corpimages.blob.core.windows.net/public) -recursive
     - b) Azcopy copy \\server1\images [https://corpimages.blob.core.windows.net/public](https://corpimages.blob.core.windows.net/public) -recursive
@@ -28,7 +29,7 @@ Each correct answer presents a complete solution? Select all answers that apply.
       Correct answer: b, c
     </details>
 
-3. What benefit does a Content Delivery Network (CDN) provide its users?
+4. What benefit does a Content Delivery Network (CDN) provide its users?
     - a) Allows you to reduce the traffic coming into a web server for static, unchanging files such as images, videos, and PDFs
     - b) Allows you to store data that can be retrieved later in an extremely fast and inexpensive manner
     - c) Allows you to keep temporarily session information on the web visitor such as their login ID or their name
@@ -38,7 +39,7 @@ Each correct answer presents a complete solution? Select all answers that apply.
       Correct answer: a
     </details>
 
-4. Which of the following Network watcher feature would you use for the following requirement?
+5. Which of the following Network watcher feature would you use for the following requirement?
 Find out if a network security rule is preventing a network packet from reaching a virtual machine hosted in an Azure virtual network.
     - a) Packet Capture
     - b) IP Flow Verify
@@ -49,7 +50,7 @@ Find out if a network security rule is preventing a network packet from reaching
       Correct answer: b
     </details>
 
-5. A company has started using Azure and set up a subscription. They want to see the costs being incurred for each type of resource. Which of the following can help you get these details?
+6. A company has started using Azure and set up a subscription. They want to see the costs being incurred for each type of resource. Which of the following can help you get these details?
     - a) Go to your Azure AD directory and go to Licences.
     - b) Go to your Subscription and go to Cost Analysis.
     - c) Go to your Azure AD directory and go to Cost Analysis.
@@ -59,7 +60,7 @@ Find out if a network security rule is preventing a network packet from reaching
       Correct answer: b
     </details>
 
-6. Users are reporting that when they attempt to access myapps.microsoft.com, they are prompted multiple times to sign in and are forced to use an account name that ends with onmicrosoft.com.
+7. Users are reporting that when they attempt to access myapps.microsoft.com, they are prompted multiple times to sign in and are forced to use an account name that ends with onmicrosoft.com.
 You discover that there is a UPN mismatch between Azure AD and the on-premises Active Directory. You need to ensure that the users can use single-sign-on (SSO) to access Azure resources.
 What should you do first?
     - a) From the on-premises network, request a new certificate that contains the Active Directory domain name.
@@ -71,7 +72,7 @@ What should you do first?
       Correct answer: d
     </details>
 
-7. You have an Azure subscription that contains a storage account named storage1 and a Microsoft Entra tenant named contoso.com. You plan to provide identity-based access to storage1. Which storage1 data service can be configured to use identity-based access?
+8. You have an Azure subscription that contains a storage account named storage1 and a Microsoft Entra tenant named contoso.com. You plan to provide identity-based access to storage1. Which storage1 data service can be configured to use identity-based access?
     - a) file shares
     - b) tables
     - c) containers
@@ -81,7 +82,7 @@ What should you do first?
       Correct answer: a
     </details>
 
-8. While setting up Azure Site Recovery, in which region do you have to deploy the cache storage account?
+9. While setting up Azure Site Recovery, in which region do you have to deploy the cache storage account?
     - a) Secondary region with RA-GRS
     - b) Primary and secondary regions
     - c) Secondary region
@@ -91,7 +92,7 @@ What should you do first?
       Correct answer: d
     </details>
 
-9. You have an Azure subscription that contains a virtual network named VNet1. You plan to enable VNet1 connectivity to on-premises resources by using an encrypted connection. What should you configure for VNet1?
+10. You have an Azure subscription that contains a virtual network named VNet1. You plan to enable VNet1 connectivity to on-premises resources by using an encrypted connection. What should you configure for VNet1?
     - a) a public IP address
     - b) a private endpoint connection
     - c) internet routing
@@ -101,7 +102,7 @@ What should you do first?
       Correct answer: d
     </details>
 
-10. In which format are NSG flow logs stored?
+11. In which format are NSG flow logs stored?
     - a) Markdown
     - b) YAML
     - c) JSON
